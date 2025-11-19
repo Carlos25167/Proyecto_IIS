@@ -1,7 +1,6 @@
 Mantenimientos Aplicables al Sistema de Registro de Usuarios
 
 1\. Mantenimiento Perfectivo
-
 Acción:
 
 Implementar mejoras orientadas a optimizar el rendimiento, la seguridad y la usabilidad del sistema. Esto incluye la incorporación de nuevas funcionalidades —como la verificación de correo electrónico—, la actualización de librerías y protocolos de seguridad, y la optimización de consultas en la base de datos para garantizar tiempos de respuesta más eficientes.
