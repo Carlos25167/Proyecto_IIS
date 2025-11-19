@@ -11,7 +11,7 @@ funciona un proyecto, como instalarlo o como colaborar en el. Ademas, su
 sintaxis clara hace que otros desarrolladores puedan entender el
 contenido sin dificultad. Ventajas de utilizar Markdown en combinacion
 con GitHub Al usar Markdown junto con GitHub se obtienen varias
-ventajas: • Visualizacion automatica: GitHub renderiza los archivos .md
+ventajas:• Visualizacion automatica: GitHub renderiza los archivos .md
 de forma automatica, haciendo que se vean bien formateados sin necesidad
 de usar un navegador especial. • Facil colaboracion: Cuando varias
 personas trabajan en un proyecto, Markdown facilita la edicion y
