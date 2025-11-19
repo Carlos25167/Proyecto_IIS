@@ -21,4 +21,5 @@ ver claramente que ha cambiado entre versiones.
 • Buena organizacion: Permite crear listas, tablas, titulos, enlaces e incluso
 insertar imagenes, lo cual ayuda a mantener la documentacion ordenada.
 • Compatibilidad: Como es texto plano, funciona bien con el control de
+
 versiones de Git, ayudando a que los cambios sean faciles de rastrear.
